@@ -1,0 +1,47 @@
+{
+  "articleCount": 823,
+  "audit": {
+    "file": "audit-summary.json",
+    "sha256": "76d88a1541468371c4f2669bd088480740c29e7c8a1f3137007672ce0d96ef4c"
+  },
+  "builder": {
+    "name": "android-internals-knowledge-pack",
+    "projectionRevision": 2,
+    "version": "1.1.0"
+  },
+  "chunkCount": 18792,
+  "compatibility": {
+    "smartPerfettoMaxVersion": "2.x",
+    "smartPerfettoMinVersion": "1.1.1"
+  },
+  "contentFingerprint": "52da3b0a1ab3123c7a9375e1863a68966420ebeb7fb3768af94fe74be2476443",
+  "contentVersion": "2026.07.19.0",
+  "database": {
+    "compressedBytes": 30975334,
+    "compression": "gzip",
+    "file": "content.sqlite.gz",
+    "sha256": "ca81ccac0b05344900b7034919d1ba2296b092671773e96b70bc6f519bed8a16",
+    "uncompressedBytes": 83275776,
+    "uncompressedSha256": "eee6eba2f27c4f8e40cddac2a1162e67559e9d958bdab30d402fb9e7e1f4d612"
+  },
+  "generatedAt": "2026-07-19T15:50:13Z",
+  "licenses": {
+    "attribution": "Android Internals Wiki by Gracker",
+    "copyrightHolder": "Gracker",
+    "expression": "CC-BY-NC-SA-4.0 OR LicenseRef-AIW-Commercial",
+    "files": {
+      "COMMERCIAL-LICENSE.md": "901036e76a6d81b59601ea07038222570b182bade6440f1f1cc5c3efc3fa020e",
+      "KNOWLEDGE-PACK-LICENSE.md": "0c16d015719434be1d5ae91b7913dd981e3d0c9dca23782b64e474addd13a28a",
+      "LICENSE": "23a6976739eabee0154a14194b1027f9c9288ae5a3bfab2820ac32e15c23632e"
+    }
+  },
+  "packFormatVersion": 1,
+  "packId": "android-internals",
+  "revocation": {
+    "minimumSafeVersion": "2026.07.19.0",
+    "revoked": false
+  },
+  "schemaVersion": 1,
+  "sectionCount": 18161,
+  "sourceRevision": "c54f9730d3587dac8c820d6c72b17d74abddf672"
+}
